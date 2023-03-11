@@ -1,0 +1,46 @@
+.wheel-container{
+    position: relative;
+    margin: auto;
+    width: 192px;
+    height: 192px;
+    background-color: #FFF;
+    top: 52px;
+    border-radius: 50%;
+}
+
+.ok-buttons{
+    background-color: #808080;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: calc(50% - 40px);
+    left: calc(50% - 40px);
+}
+
+.wheel-buttons .button{
+    color: #808080;
+    width: fit-content;
+    position: absolute;
+    font-size: 16px;
+}
+
+.button.menu-buttons{
+    left: 36%;
+    top: 12%;
+}
+
+.button.forward-buttons{
+    left: 81%;
+    top: 43%;
+}
+
+.button.backward-buttons{
+    top: 43%;
+    left: 12%;
+}
+
+.button.play-pause-buttons{
+    top: 79%;
+    left: 38%;
+}

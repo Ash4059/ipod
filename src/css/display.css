@@ -1,0 +1,8 @@
+.ipod-display{
+    width: 310px;
+    height: 260px;
+    background-color: black;
+    margin: auto;
+    position: relative;
+    top: 18px;
+}
