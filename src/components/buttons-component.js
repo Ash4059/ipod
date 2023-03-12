@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/buttons-components.css'
-import { FaFastForward, FaFastBackward, FaPlay, FaPause } from 'react-icons/fa'
+import { FaFastForward, FaFastBackward, FaPlay, FaPause } from 'react-icons/fa';
 
 
 class Buttons extends React.Component{

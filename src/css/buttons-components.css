@@ -28,6 +28,7 @@
 .button.menu-buttons{
     left: 36%;
     top: 12%;
+    font-weight: bold;
 }
 
 .button.forward-buttons{
@@ -42,5 +43,5 @@
 
 .button.play-pause-buttons{
     top: 79%;
-    left: 38%;
+    left: 40%;
 }

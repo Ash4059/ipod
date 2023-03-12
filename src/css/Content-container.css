@@ -1,0 +1,12 @@
+.content-container{
+    width: 60%;
+    height: 100%;
+    background-color: #FFF;
+    position: relative;
+    top: -21px;
+}
+
+.content-container .title{
+    position: relative;
+    top: 16px;
+}

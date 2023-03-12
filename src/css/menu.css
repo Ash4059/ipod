@@ -1,0 +1,22 @@
+.menu-content{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    position: relative;
+}
+
+.menu-content span{
+    position: absolute;
+}
+
+.menu-content .menu-arrow{
+    right: 20px;
+}
+
+.menu-content .menu-title{
+    left: 20px;
+    width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
